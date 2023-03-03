@@ -1,0 +1,6 @@
+mediatorpattern\MediatorPattern.class
+mediatorpattern\ATCMediator.class
+mediatorpattern\IATCMediator.class
+mediatorpattern\Command.class
+mediatorpattern\Runway.class
+mediatorpattern\Flight.class
