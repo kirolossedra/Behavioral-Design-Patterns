@@ -1,0 +1,6 @@
+strategypattern\Context.class
+strategypattern\OperationSubstract.class
+strategypattern\StrategyPattern.class
+strategypattern\Strategy.class
+strategypattern\OperationAdd.class
+strategypattern\OperationMultiply.class
