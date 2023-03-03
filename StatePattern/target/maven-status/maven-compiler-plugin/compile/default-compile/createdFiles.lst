@@ -1,0 +1,5 @@
+statepattern\StopState.class
+statepattern\StartState.class
+statepattern\StatePattern.class
+statepattern\State.class
+statepattern\Context.class
